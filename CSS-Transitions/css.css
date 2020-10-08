@@ -1,0 +1,43 @@
+.droplet1{
+  background: mediumaquamarine;
+  border-radius: 5px 50%;
+  height: 100px;
+  margin: 150px auto;
+  width: 100px;
+  transform-origin: left bottom;
+  transition: all 4s; 
+}
+
+.droplet2{
+  background: skyblue;
+  border-radius: 5px 50%;
+  height: 100px;
+  margin: 150px auto;
+  width: 100px;
+  transform-origin: right top;
+  transition: all 4s; 
+}
+
+.droplet3{
+  background: mediumaquamarine;
+  border-radius: 5px 50%;
+  height: 100px;
+  margin: 150px auto;
+  width: 100px;
+  transform-origin: left bottom;
+  transition: all 4s; 
+}
+
+.droplet4{
+  background: skyblue;
+  border-radius: 5px 50%;
+  height: 100px;
+  margin: 150px auto;
+  width: 100px;
+  transform-origin: right top;
+  transition: all 4s; 
+}
+
+.container:hover div{
+  transform: rotate(500deg);
+}

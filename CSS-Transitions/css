@@ -1,0 +1,42 @@
+.container{
+	display: flex;
+	justify-content: space-around;
+}
+
+
+h1{
+color: steelblue;
+text-align: center;
+font-weight: 800px;
+font-size: 100px;
+}
+
+
+
+
+.box{
+    width: 100px;
+	height: 100px;
+	border-radius: 5px;
+	background: steelblue;
+	display: inline-block;
+}
+
+.container:hover div{
+	transform: scale(1.5);
+}
+
+.box1{
+	transition: all 1s ease-out;
+}
+
+.box2{
+	transition: all 1s ease-out 0.5s;
+}
+
+.box3{
+	transition: all 1s ease-out 1s;
+}
+
+
+

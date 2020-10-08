@@ -7,3 +7,4 @@ Day 2 - Check
 
 Day 3 - Check ( so many things to learn...)
 
+Day 4- Check ( massive headache fom staying all day in front of my pc )

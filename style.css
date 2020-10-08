@@ -1,0 +1,39 @@
+.wrap{
+	margin: 50px;
+}
+
+.container{
+	display: inline-block;
+	width: 400px;
+}
+
+h1{
+	color: lightgray;
+	font-family: lato;
+	font-size: 40px;
+	font-weight: 700;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.box{
+
+	border-radius: 5px; /* defines the radius of the element's corners, add rounded corners */
+	height: 100px;
+	margin: 80px auto;
+	width: 120px;
+
+}
+
+.box:hover{
+	transform: scale(3);
+}
+
+.box1{
+	background:mediumturquoise;
+}
+
+.box2{
+	background: #2b3f53;
+	transition: all 1s;

@@ -1,5 +1,6 @@
 body{
     margin:auto 0;
+    font-family: Arial;
 }
 
 .container{
@@ -7,6 +8,12 @@ body{
     justify-content: space-around;
     font-size: 1em; 
     margin: 0;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 li{
@@ -49,6 +56,7 @@ li{
     -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
+
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
@@ -128,4 +136,15 @@ li{
 
 footer{
     text-align: center;
+}
+
+.cover{
+    width: 30rem;
+}
+
+.box:hover{
+    -webkit-transform:rotate(7deg);
+    -o-transform:rotate(7deg);
+    -moz-transform:rotate(7deg);
+    transform: rotate(7deg);
 }

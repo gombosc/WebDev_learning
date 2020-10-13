@@ -16,3 +16,5 @@ Day 6 - Check ( bootstrap, semantic tags, git, first website, animate, templates
 Day 7 - Check ( almost done with Layout/Grid/Flexbox - can't wait to start javascript already - also completed grid garden all 28 levels gg me )
 
 Day 8 - Check ( done with CSS, made a page, started javascript )
+
+Day 9 - Check ( finished javascript, started DOM, made a facebook example with javascript, used DOm to create a to do list)

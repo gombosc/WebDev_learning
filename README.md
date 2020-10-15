@@ -20,3 +20,5 @@ Day 8 - Check ( done with CSS, made a page, started javascript )
 Day 9 - Check ( finished javascript, started DOM, made a facebook example with javascript, used DOM to create a to do list)
 
 Day 10 - Check ( stuck at DOM, can barely figure everything out, created a list in which I can add, check and delete items)
+
+Day 11 - Check ( finished DOM, yasss, created two background generators, started advanced Javascript, learned about jQuery and ES5 - ES6 )

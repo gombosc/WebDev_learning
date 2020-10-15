@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random background color w DOM and Ternary Operator</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		
+    body{
+    	margin: auto;
+    	text-align: center;
+    	padding: 0;
+    	background: #FF7F50;
+    }
+
+    button{
+    	position: absolute;
+    	top: 50%;
+    	left: 50%;
+    	transform: translate(-50%,-50%);
+    	padding: 15px;
+    	background: #fff;
+    	font-size: 25px;
+    	cursor:pointer;
+
+	</style>
+</head>
+<body>
+
+<button>Press to change</button>
+<script type="text/javascript">
+var color = ['#20B2AA','#90EE90','#FAFAD2','#FFB6C1','#FFA07A','#C71585','#98FB98','          #FF4500','#4169E1','#663399','#FFD700','#F0F8FF'];
+
+button = document.querySelector("button");
+i=0;
+function change(){
+	i = i < color.length ? ++i : 0;
+	document.querySelector('body').style.backgroundColor = color[i];
+}
+button.addEventListener("click",change);
+</script>
+</body>
+</html>

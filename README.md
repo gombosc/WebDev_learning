@@ -24,3 +24,5 @@ Day 10 - Check ( stuck at DOM, can barely figure everything out, created a list 
 Day 11 - Check ( finished DOM, yasss, created two background generators, started advanced Javascript, learned about jQuery and ES5 - ES6 )
 
 Day 12 - Check ( only two hours and a half, not so productive but understood pure functions, advanced functions and arrays...some exercises too )
+
+Day 13 - Check ( Lots of theory, some exercises, learnt advanced objects, references, deep clone, type coercion, es7-8-10 and advanced loops )

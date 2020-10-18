@@ -26,3 +26,5 @@ Day 11 - Check ( finished DOM, yasss, created two background generators, started
 Day 12 - Check ( only two hours and a half, not so productive but understood pure functions, advanced functions and arrays...some exercises too )
 
 Day 13 - Check ( Lots of theory, some exercises, learnt advanced objects, references, deep clone, type coercion, es7-8-10 and advanced loops )
+
+Day 14 - Check ( felt really lazy today and didn't want to code, got through it and finished javascript advanced, feels good )

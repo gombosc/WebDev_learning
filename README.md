@@ -30,3 +30,5 @@ Day 13 - Check ( Lots of theory, some exercises, learnt advanced objects, refere
 Day 14 - Check ( felt really lazy today and didn't want to code, got through it and finished javascript advanced, feels good )
 
 Day 15 - Check ( command line, developer environment, vs code, sublime text, atom, packages and so on )
+
+Day 15 - Check ( made a trip to another city to get some things done, managed to get a hour of coding, visual studio code and created a template for furtther projects )

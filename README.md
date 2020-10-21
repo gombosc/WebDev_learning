@@ -32,3 +32,5 @@ Day 14 - Check ( felt really lazy today and didn't want to code, got through it 
 Day 15 - Check ( command line, developer environment, vs code, sublime text, atom, packages and so on )
 
 Day 16 - Check ( made a trip to another city to get some things done, managed to get a hour of coding, visual studio code and created a template for furtther projects )
+
+Day 17 - Check ( checke-out today, missed 2 trains and waited almost 6 hours, managed to get almost an hour and half of reaading articles over javascript, roadmap of a developer, modules, webpack and control flow practices, error handling, data models, asynhcronity, objects, testing )

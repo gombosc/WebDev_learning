@@ -33,6 +33,6 @@ Day 15 - Check ( command line, developer environment, vs code, sublime text, ato
 
 Day 16 - Check ( made a trip to another city to get some things done, managed to get a hour of coding, visual studio code and created a template for furtther projects )
 
-Day 17 - Check ( checke-out today, missed 2 trains and waited almost 6 hours, managed to get almost an hour and half of reaading articles over javascript, roadmap of a developer, modules, webpack and control flow practices, error handling, data models, asynhcronity, objects, testing )
+Day 17 - Check ( checked-out today, missed 2 trains and waited almost 6 hours, managed to get almost an hour and half of reading articles over javascript, roadmap of a developer, modules, webpack and control flow practices, error handling, data models, asynhcronity, objects, testing )
 
 Day 18 - Check ( creating a quote generator website, getting used to vs code and advanced css )

@@ -36,3 +36,5 @@ Day 16 - Check ( made a trip to another city to get some things done, managed to
 Day 17 - Check ( checked-out today, missed 2 trains and waited almost 6 hours, managed to get almost an hour and half of reading articles over javascript, roadmap of a developer, modules, webpack and control flow practices, error handling, data models, asynhcronity, objects, testing )
 
 Day 18 - Check ( creating a quote generator website, getting used to vs code and advanced css )
+
+Day 19 - Check ( worked on the API fetch for the quote generator, read about async, promises, new, then, callback functions and try/catch/throw, don't really get promise, maybe I'm just too tired today )

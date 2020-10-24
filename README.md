@@ -38,3 +38,5 @@ Day 17 - Check ( checked-out today, missed 2 trains and waited almost 6 hours, m
 Day 18 - Check ( creating a quote generator website, getting used to vs code and advanced css )
 
 Day 19 - Check ( worked on the API fetch for the quote generator, read about async, promises, new, then, callback functions and try/catch/throw, don't really get promise, maybe I'm just too tired today )
+
+Day 20 - Check ( finished the quote generator, learned more about git and bash, can't believe it has been 20 days already )

@@ -44,3 +44,5 @@ Day 20 - Check ( finished the quote generator, learned more about git and bash, 
 Day 21 - Check ( lacking motivation, got used to git, read a little, commited to ztm open source )
 
 Day 22 - Check ( npm + npm scripts, job, faculty and coding it's a little too much )
+
+Day 23 - Check ( using npm, forking and updating a template with my own info, live server, git and bash again, Sass )

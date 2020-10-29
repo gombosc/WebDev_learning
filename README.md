@@ -48,3 +48,5 @@ Day 22 - Check ( npm + npm scripts, job, faculty and coding it's a little too mu
 Day 23 - Check ( using npm, forking and updating a template with my own info, live server, git and bash again, Sass )
 
 Day 24 - Check ( started react )
+
+Day 25 - Check ( researching and testing how to create a site that has a url input that when clicked downloads all images from the inserted URL, created similar script in python )

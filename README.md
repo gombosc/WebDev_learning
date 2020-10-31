@@ -50,3 +50,7 @@ Day 23 - Check ( using npm, forking and updating a template with my own info, li
 Day 24 - Check ( started react )
 
 Day 25 - Check ( researching and testing how to create a site that has a url input that when clicked downloads all images from the inserted URL, created similar script in python )
+
+Day 26 -Check ( created a image downloader website, doesn't work yet )
+
+Day 27 Check ( more leisure time - image downloader still doesn't work )

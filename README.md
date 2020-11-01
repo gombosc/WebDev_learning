@@ -54,3 +54,5 @@ Day 25 - Check ( researching and testing how to create a site that has a url inp
 Day 26 - Check ( created a image downloader website, doesn't work yet )
 
 Day 27 - Check ( more leisure time - image downloader still doesn't work )
+
+Day 28 - Check ( internet detox, spent time reading through my notes, doing a recap over what I've learned )

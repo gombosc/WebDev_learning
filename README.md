@@ -56,3 +56,5 @@ Day 26 - Check ( created a image downloader website, doesn't work yet )
 Day 27 - Check ( more leisure time - image downloader still doesn't work )
 
 Day 28 - Check ( internet detox, spent time reading through my notes, doing a recap over what I've learned )
+
+Day 29 - Check ( full recap, have a better understanding of what I've learned so far, ready to finish react )

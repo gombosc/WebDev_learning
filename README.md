@@ -60,3 +60,5 @@ Day 28 - Check ( internet detox, spent time reading through my notes, doing a re
 Day 29 - Check ( full recap, have a better understanding of what I've learned so far, ready to finish react )
 
 Day 30 - Check ( continuing with react )
+
+Day 30 - Check ( working on the robofriends project in react, learned about jsx, props and service workers )

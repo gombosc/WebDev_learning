@@ -64,3 +64,5 @@ Day 30 - Check ( continuing with react )
 Day 31 - Check ( working on the robofriends project in react, learned about jsx, props and service workers )
 
 Day 32 - Check ( continuing with react )
+
+Day 32 - Check ( watching videos about React 'cause I don't really get it, ughh )

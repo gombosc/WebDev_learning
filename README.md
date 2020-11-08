@@ -66,3 +66,5 @@ Day 31 - Check ( working on the robofriends project in react, learned about jsx,
 Day 32 - Check ( continuing with react )
 
 Day 32 - Check ( watching videos about React 'cause I don't really get it, ughh )
+
+Day 33 - Check ( lacking motivation, barely coded something in React )

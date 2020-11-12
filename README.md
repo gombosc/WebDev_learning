@@ -74,3 +74,5 @@ Day 34 - Check ( finished robofriends app )
 Day 35 - Check ( reading through the tutorial offered by React on their website - barely getting some time to code, gotta get used to the job schedule )
 
 Day 36 - Check
+
+Day 37 - No check ( tough few days, spend too much time in front of my laptop )
